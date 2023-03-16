@@ -14,7 +14,7 @@ main()
 
 
 async function main(){
-    await mongoose.connect('mongodb+srv://admin-ayush:roronoaZoro7@atlascluster.wumy5wn.mongodb.net/JackAPI');
+    await mongoose.connect(''+process.env.DB_URL);
 }
 
 
