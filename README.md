@@ -1,4 +1,4 @@
 # JackBauer-RestAPI
 
-url/articles
+url/articles \n
 url/articls/rank_id
